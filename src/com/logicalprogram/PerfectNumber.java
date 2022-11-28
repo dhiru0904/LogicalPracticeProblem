@@ -1,7 +1,7 @@
 package com.logicalprogram;
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class PerfectNumber {
     public static void main(String[] args) {
         int number, sum = 0;
         Scanner input = new Scanner(System.in);
